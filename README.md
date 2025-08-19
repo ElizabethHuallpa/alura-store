@@ -62,6 +62,6 @@ Tras analizar todas las métricas disponibles, se llegó a la siguiente recomend
 
 Proyecto desarrollado por **Elizabeth Huallpa**  
 Formación en Ciencia de Datos – Alura Latam  
-GitHub: [tatiana-017](https://github.com/tatiana-017)
+GitHub: [`ElizabethHuallpa`](https://github.com/ElizabethHuallpa)
 
 ---

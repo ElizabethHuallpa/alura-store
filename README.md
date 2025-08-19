@@ -2,7 +2,7 @@
 
 El desafío busca desarrollar las habilidades en análisis de datos con Python. Con enfoque en la lógica del análisis y en la extracción de insights.
 
-## 🎯 Descripción del problema
+## 📋 Descripción del problema
 
 El desafío Alura Store consiste en evaluar el rendimiento de cuatro tiendas con el fin de apoyar al señor Juan en la decisión estratégica de vender aquella que genera menor desempeño. Para ello, se analizarán cinco aspectos clave: facturación total de cada tienda, categorías de productos más populares, calificación promedio de los clientes, identificación de productos más y menos vendidos, y costo promedio de envío. Este análisis permitirá determinar cuál de las tiendas representa menor rentabilidad y optimizar así la inversión en un nuevo negocio. El proyecto simula un escenario real de análisis de datos, en el que se aplicarán herramientas de Python, GitHub, Google Colab y Trello para organizar, procesar y visualizar la información de manera eficiente.
  
@@ -28,23 +28,23 @@ El análisis del rendimiento de tiendas se basa en información sobre ingresos t
 
 Para el desarrollo del presente análisis se utilizaron herramientas como:
 
-✅ Python 3.x
-✅ Google Colab
-✅ Pandas
-✅ Matplotlib
-✅ Seaborn
-✅ Folium
-✅ IPython Display
+- Python 3.x
+- Google Colab
+- Pandas
+- Matplotlib
+- Seaborn
+- Folium
+- IPython Display
 
 ---
 
 ## 🧠 Análisis de Datos
 
-1. **Facturación total y por tienda:** ingresos generados.
-**2. Ventas por categoría:** qué categorías de productos venden más.
-**3. Clasificación promedio de productos:** – calificaciones o reseñas de los clientes.
-**4. Productos más y menos vendidos:** – identificar los best-sellers y los de menor rotación.
-**5. Promedio de envío:** – tiempos de entrega y eficiencia logística.
+- **Facturación total y por tienda:** ingresos generados.
+- **Ventas por categoría:** qué categorías de productos venden más.
+- **Clasificación promedio de productos:** – calificaciones o reseñas de los clientes.
+- **Productos más y menos vendidos:** – identificar los best-sellers y los de menor rotación.
+- **Promedio de envío:** – tiempos de entrega y eficiencia logística.
 
 ---
 
